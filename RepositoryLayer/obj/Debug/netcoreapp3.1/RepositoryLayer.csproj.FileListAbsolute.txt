@@ -1,0 +1,9 @@
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\Vishal\source\repos\BookStoreAPI\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
